@@ -5,3 +5,5 @@ file 3 line 3
 file 3 line 5
 
 file 3 line 7
+
+file 3 line 9
